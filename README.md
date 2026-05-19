@@ -1,14 +1,14 @@
 # Ethan's Portfolio
 
-This is my data portfolio that is still in a work in progress. 
+This is my data portfolio that is still a work in progress. 
 
-## 📚 Table of Contents
+## Table of Contents
 - [Tableau](#tableau)
 
 # Tableau
 
-| Project Link | Project Description | Dashboard Link |
+| Project Description | Dashboard Link |
 |---|---|---|
-| [Google Fiber Case Study](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| [Google Fiber Case Study] | Built a dashboard that provided stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent with the purpose of understanding of how effective the customer service team is at answering customer questions. | [Dashboard](https://public.tableau.com/views/GoogleFiberDashboardCaseStudy/CustomerServiceRepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ***
